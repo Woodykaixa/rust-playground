@@ -1,0 +1,8 @@
+{
+    "debug.allowBreakpointsEverywhere": true,
+    "[rust]": {
+        "editor.formatOnPaste": true,
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "rust-lang.rust"
+    }
+}
